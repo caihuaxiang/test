@@ -7,5 +7,7 @@ public class TestClass {
 		
 		
 	}
+	//test update of master
+	public void testMasterUpdate(){}
 }
 
