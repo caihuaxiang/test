@@ -7,5 +7,10 @@ public class TestClass {
 		
 		
 	}
+	//update on branch
+	public void brachMethod(){
+		//my new method
+	}
 }
+
 
